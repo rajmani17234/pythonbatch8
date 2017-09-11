@@ -1,0 +1,5 @@
+a=input('enter the First number')
+b=input('enter the second number')
+c=input('enter the third number')
+sum=float(a)+float(b)+float(c)
+print('the sum is {0}'.format(sum))
